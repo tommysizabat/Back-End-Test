@@ -1,5 +1,15 @@
-Run php artisan migrate to create user table,
+Run php artisan migrate to create user table
+
 Run php artisan db:seed to seed post table and user table
+
+Reporter Login after seeding :
+- email : reporter01@kompas.id
+- password : reporter01kompasid
+
+Editor Login after seeding :
+- email : editor01@kompas.id
+- password : ediotr01kompasid
+
 
 ## About Laravel
 
